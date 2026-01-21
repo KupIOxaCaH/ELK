@@ -12,7 +12,9 @@
 
 #### Решение 1
 
+*Скриншот команды*
 
+![Скриншот команды](https://github.com/KupIOxaCaH/ELK/blob/main/materials/task1.png)
 
 ---
 
@@ -26,7 +28,9 @@
 
 #### Решение 2
 
+*Скриншот интерфейса*
 
+![Скриншот интерфейса](https://github.com/KupIOxaCaH/ELK/blob/main/materials/task2.png)
 
 ---
 
@@ -40,7 +44,9 @@
 
 #### Решение 3
 
+*Скриншот логов*
 
+![Скриншот логов](https://github.com/KupIOxaCaH/ELK/blob/main/materials/task3.png)
 
 ---
 
@@ -54,7 +60,9 @@
 
 #### Решение 4
 
+*Скриншот логов*
 
+![Скриншот логов](https://github.com/KupIOxaCaH/ELK/blob/main/materials/task4.png)
 
 ---
 
@@ -69,7 +77,9 @@
 
 #### Решение 5
 
+*Скриншот логов*
 
+![Скриншот логов](https://github.com/KupIOxaCaH/ELK/blob/main/materials/task5.png)
 
 ---
 
